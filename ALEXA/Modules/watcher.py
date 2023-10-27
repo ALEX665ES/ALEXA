@@ -69,7 +69,7 @@ async def swr_handler(_, chat_id: int):
 async def on_stream_end(pytgcalls, update: Update):
     chat_id = update.chat_id
 
-    get = GJ516db.get(chat_id)
+    get = ALEXdb.get(chat_id)
     if not get:
         try:
             await _clear_(chat_id)
