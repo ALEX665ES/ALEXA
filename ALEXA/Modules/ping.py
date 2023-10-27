@@ -59,7 +59,10 @@ async def ping_ALEX(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("❰𝙂𝙧𝙤𝙪𝙥❱", url=config.SUPPORT_CHAT)
+                    InlineKeyboardButton("❰𝗚𝗿𝗼𝘂𝗽❱", url=config.SUPPORT_CHAT)
+                ],
+                [
+                    InlineKeyboardButton("❰𝗢𝘄𝗻𝗲𝗿❱", url=f"https://t.me/AboutInnocent")
                 ],
             ]
         ),
