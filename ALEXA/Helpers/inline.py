@@ -33,8 +33,8 @@ close_key = InlineKeyboardMarkup(
 buttons = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="❰𝙊𝙬𝙣𝙚𝙧❱", user_id=config.OWNER_ID),
-            InlineKeyboardButton(text="❰𝙂𝙧𝙤𝙪𝙥❱", url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text="❰𝗢𝘄𝗻𝗲𝗿❱", user_id=config.OWNER_ID),
+            InlineKeyboardButton(text="❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url=config.SUPPORT_CHAT),
         ]
     ]
 )
@@ -47,7 +47,7 @@ pm_buttons = [
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [InlineKeyboardButton(text="❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", callback_data="ALEX_help")],
+    [InlineKeyboardButton(text="❰𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀❱", callback_data="ALEX_help")],
     [
         InlineKeyboardButton(text="❰𝗖𝗵𝗮𝗻𝗻𝗲𝗹❱", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url=config.SUPPORT_CHAT),
