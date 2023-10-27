@@ -10,8 +10,6 @@
  <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
  </p> 
  ━━━━━━━━━━━━━━━━━━━━
- ## ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀 
-
  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ALEX665ES/ALEXA"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-orange?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p> 
 
 ━━━━━━━━━━━━━━━━━━━━ 
