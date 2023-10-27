@@ -13,7 +13,7 @@
  
  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ALEX665ES/ALEXA"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-orange?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p> 
 
-━━━━━━━━━━━━━━━━━━━━ 
+
 
    <h3 align="center"> 
      ─「 Sᴜᴩᴩᴏʀᴛ 」─ 
@@ -25,11 +25,11 @@
  <p align="center"> 
  <a href="https://telegram.me/ABOUTINNOCENT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
  </p> 
-━━━━━━━━━━━━━━━━━━━━
+
     <h3 align="center"> 
    ─「 Cʀᴇᴅɪᴛs 」─ 
  </h3> 
 
  - <b>[Dᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/ALEX665ES)  ➻  [Sᴏᴍᴇᴛʜɪɴɢ](https://github.com/ALEX665ES/ALEXA) </b>
 
-━━━━━━━━━━━━━━━━━━━━
+
