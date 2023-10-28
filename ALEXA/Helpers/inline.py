@@ -38,9 +38,10 @@ buttons = InlineKeyboardMarkup(
         ]
         [
             InlineKeyboardButton(text="❰𝗖𝗹𝗼𝘀𝗲❱", callback_data="close"),
-        ]
+    ]
     ]
 )
+
 
 
 pm_buttons = [
