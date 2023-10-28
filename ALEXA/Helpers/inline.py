@@ -36,9 +36,6 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="❰𝗢𝘄𝗻𝗲𝗿❱", user_id=config.OWNER_ID),
             InlineKeyboardButton(text="❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url=config.SUPPORT_CHAT),
         ]
-        [
-            InlineKeyboardButton(text="❰𝗖𝗹𝗼𝘀𝗲❱", callback_data="close"),
-    ]
     ]
 )
 
