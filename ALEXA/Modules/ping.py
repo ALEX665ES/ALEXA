@@ -58,12 +58,11 @@ async def ping_ALEX(_, message: Message):
 ||𝙈𝙖𝙙𝙚 𝘽𝙮 : [ ͜ ͡ 🇦ʀʏʌͷ_🖤](https://t.me/DEVIL_IZ_BACK) || """,
         reply_markup=InlineKeyboardMarkup(
             [
-                [
-                    InlineKeyboardButton("❰𝗚𝗿𝗼𝘂𝗽❱", url=config.SUPPORT_CHAT)
-                ],
-                [
-                    InlineKeyboardButton("❰𝗢𝘄𝗻𝗲𝗿❱", url=f"https://t.me/AboutInnocent")
-                ],
+                
+            [
+            InlineKeyboardButton(text="❰𝗢𝘄𝗻𝗲𝗿❱", user_id=config.OWNER_ID),
+            InlineKeyboardButton(text="❰𝗚𝗿𝗼𝘂𝗽❱", url=config.SUPPORT_CHAT),
+            ]
             ]
         ),
     )
